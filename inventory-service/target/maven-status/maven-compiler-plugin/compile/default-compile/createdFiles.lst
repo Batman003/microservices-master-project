@@ -1,0 +1,7 @@
+com\wajir\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\wajir\inventoryservice\InventoryServiceApplication.class
+com\wajir\inventoryservice\service\InventoryService.class
+com\wajir\inventoryservice\controller\InventoryController.class
+com\wajir\inventoryservice\dto\InventoryResponse.class
+com\wajir\inventoryservice\model\Inventory.class
+com\wajir\inventoryservice\repository\InventoryRepository.class

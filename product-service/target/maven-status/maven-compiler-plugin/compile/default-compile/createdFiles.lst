@@ -1,0 +1,10 @@
+com\wajir\productservice\ProductServiceApplication.class
+com\wajir\productservice\repository\ProductRepository.class
+com\wajir\productservice\dto\ProductRequest.class
+com\wajir\productservice\controller\ProductController.class
+com\wajir\productservice\model\Product$ProductBuilder.class
+com\wajir\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\wajir\productservice\dto\ProductResponse.class
+com\wajir\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\wajir\productservice\service\ProductService.class
+com\wajir\productservice\model\Product.class

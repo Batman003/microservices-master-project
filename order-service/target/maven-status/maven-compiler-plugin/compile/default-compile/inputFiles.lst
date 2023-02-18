@@ -1,0 +1,11 @@
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\OrderServiceApplication.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\dto\OrderLinesItemDTO.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\model\OrderLineItems.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\service\OrderService.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\client\WebClientConfiguration.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\dto\InventoryResponse.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\controller\OrderServiceController.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\dto\OrderRequest.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\model\Order.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\config\WebClientConfig.java
+C:\Users\wajchaud\Documents\Microservices\microservice-parent\order-service\src\main\java\com\wajir\orderservice\repository\OrderRepository.java

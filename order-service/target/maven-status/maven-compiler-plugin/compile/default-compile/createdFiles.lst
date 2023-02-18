@@ -1,0 +1,16 @@
+com\wajir\orderservice\dto\OrderLinesItemDTO.class
+com\wajir\orderservice\dto\OrderLinesItemDTO$OrderLinesItemDTOBuilder.class
+com\wajir\orderservice\config\WebClientConfig.class
+com\wajir\orderservice\repository\OrderRepository.class
+com\wajir\orderservice\dto\InventoryResponse.class
+com\wajir\orderservice\controller\OrderServiceController.class
+com\wajir\orderservice\model\Order.class
+com\wajir\orderservice\client\WebClientConfiguration.class
+com\wajir\orderservice\service\OrderService.class
+com\wajir\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\wajir\orderservice\model\OrderLineItems$OrderLineItemsBuilder.class
+com\wajir\orderservice\dto\OrderRequest$OrderRequestBuilder.class
+com\wajir\orderservice\model\Order$OrderBuilder.class
+com\wajir\orderservice\OrderServiceApplication.class
+com\wajir\orderservice\model\OrderLineItems.class
+com\wajir\orderservice\dto\OrderRequest.class

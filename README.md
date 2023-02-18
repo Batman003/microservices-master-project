@@ -5,6 +5,6 @@ In this project we have following microservices
 3. product service
 
 # Database Example
-For inventory service & order service we are using mysql database
-For Product Service we are using MongoDB
+1. For inventory service & order service we are using mysql database
+2. For Product Service we are using MongoDB
 
